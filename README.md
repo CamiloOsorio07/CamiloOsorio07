@@ -46,15 +46,18 @@ Soy estudiante de Ingeniería Informática con enfoque en desarrollo práctico. 
 
 ## 📈 Mis estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloOsorio07&show_icons=true&theme=dark&hide_border=true&icon_color=00ff7f&title_color=00ff7f" />
+  <!-- GitHub general stats (anuraghazra) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CamiloOsorio07&show_icons=true&theme=dark&hide_border=true&icon_color=00ff7f&title_color=00ff7f" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloOsorio07&theme=dark&hide_border=true&date_format=%5BY.%5Dm.%5Dd&ring=00ff7f&fire=00ff7f" alt="streak" />
+  <!-- Streak: usando mirror en vercel para mayor estabilidad -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CamiloOsorio07&theme=dark&hide_border=true&date_format=%5BY.%5Dm.%5Dd&ring=00ff7f&fire=00ff7f" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloOsorio07&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=00ff7f" />
+  <!-- Top langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloOsorio07&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=00ff7f" alt="Top languages" />
 </p>
 
 ---

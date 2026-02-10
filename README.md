@@ -44,7 +44,7 @@ Soy estudiante de Ingeniería Informática con enfoque en desarrollo práctico. 
 
 ---
 
-## 📈 Mis estadísticas (verdes)
+## 📈 Mis estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CamiloOsorio07&show_icons=true&theme=dark&hide_border=true&icon_color=00ff7f&title_color=00ff7f" />
 </p>

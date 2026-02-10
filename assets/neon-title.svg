@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00ff7f"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+    <filter id="n2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0" result="b2">
+        <animate attributeName="stdDeviation" values="0;6;0" dur="3.6s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#030306"/>
+  <g filter="url(#n2)">
+    <text x="50%" y="56%" text-anchor="middle" font-family="Segoe UI, Verdana" font-size="34" fill="url(#g2)" font-weight="700">
+      Camilo Osorio — Dev
+    </text>
+  </g>
+</svg>

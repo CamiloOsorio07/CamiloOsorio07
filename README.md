@@ -3,104 +3,170 @@
   <img src="./assets/banner.svg" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center" style="margin-top: -10px">Hola, soy <strong>Camilo Andrés Osorio Mejía</strong></h1>
+<h1 align="center">
+Hola, soy <strong>Camilo Andrés Osorio Mejía</strong>
+</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> | <strong>AI Enthusiast</strong><br>
-   Desarrollo soluciones con Python, Java, JavaScript, Kotlin y SQL.<br>
-  Apasionado por el desarrollo de software, la administración y optimización de bases de datos, la inteligencia artificial y la ciberseguridad, creando soluciones seguras, escalables y de alta calidad.
+<strong>Desarrollador de Software</strong> · <strong>Bases de Datos</strong> · <strong>Ciberseguridad</strong>
+</p>
+
+<p align="center">
+Desarrollo soluciones con <strong>Python, Java, JavaScript, Kotlin y SQL</strong>.<br>
+Me apasiona construir software seguro, escalable y de alta calidad, aplicando buenas prácticas de desarrollo, optimización de bases de datos e inteligencia artificial.
 </p>
 
 <p align="center">
   <a href="mailto:camiloosorio717@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-camiloosorio717@gmail.com-00FF7F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-camiloosorio717@gmail.com-00FF7F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/CamiloOsorio07" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-CamiloOsorio07-00FF7F?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="https://github.com/CamiloOsorio07">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-CamiloOsorio07-00FF7F?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/camilo-osorio-mejia-a20ab2325/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/camilo-osorio-mejia-a20ab2325/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## Sobre mí
+
 Soy desarrollador de software apasionado por crear soluciones tecnológicas eficientes, seguras y escalables. Mi enfoque principal está en el desarrollo de software, la ciberseguridad y las bases de datos, complementado con experiencia en inteligencia artificial, desarrollo móvil, automatización y Business Intelligence. Disfruto aprender nuevas tecnologías, optimizar procesos y convertir problemas complejos en soluciones simples mediante código limpio y buenas prácticas de desarrollo.
 
 ---
 
-## Actualmente
-- Manteniendo y mejorando **KaiVoxx**, un bot de discord vario con IA en Python.
+## Especialidades
+
+- Desarrollo de Software
+- Bases de Datos SQL
+- Inteligencia Artificial
+- Ciberseguridad
+- Desarrollo Android
+- Procesos ETL y Business Intelligence
+- Automatización de procesos
+- APIs REST
+- Docker y Git
 
 ---
 
-## Proyectos públicos
-- **[KaiVoxx](https://github.com/CamiloOsorio07/KaiVoxx)** — Bot de música en Python con soporte para YouTube, SoundCloud y Deezer.
-- **BOT-KaiVoxx** — Otra versión del bot en Python.
-- **Bot-DC** — Bot de Discord en Python.
-- **ChibiFlix** — App Android en Kotlin usando la API de Jikan.
-- **Proyectos académicos** — Juegos con Construct, ejercicios en Java/Kotlin y prácticas varias.
+## Actualmente
+
+Trabajando en **KaiVoxx**, un bot para Discord con IA desarrollado en Python, mientras profundizo en **ciberseguridad, Docker, arquitecturas backend y Spring Boot**. En paralelo, sumando proyectos nuevos a mi portafolio.
+
+---
+
+## Proyectos destacados
+
+### KaiVoxx
+Bot para Discord desarrollado en Python, con soporte para reproducción de música, integración con IA y múltiples plataformas de audio.
+
+`Python` `Discord.py` `FFmpeg`
+
+**Repositorio:** https://github.com/CamiloOsorio07/KaiVoxx
+
+---
+
+### ChibiFlix
+Aplicación Android desarrollada en Kotlin que consume la API de Jikan para consultar información de anime y personajes.
+
+`Kotlin` `Android Studio` `API REST`
+
+**Repositorio:** `[agregar link]`
+
+---
+
+### Business Intelligence
+Modelado de bases de datos, procesos ETL, SCD Tipo 2 y automatización de cargas para soluciones analíticas.
+
+`SQL` `PostgreSQL` `ETL`
+
+**Repositorio:** `[agregar link]`
+
+---
+
+### Otros proyectos
+
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| Bots para Discord | Automatización y utilidades para servidores | `[agregar link]` |
+| Aplicaciones Android | Apps móviles desarrolladas en Kotlin | `[agregar link]` |
+| Juegos 2D | Proyectos de práctica en desarrollo de juegos | `[agregar link]` |
+| Sistemas académicos | Herramientas para gestión académica | `[agregar link]` |
+| Automatización en Python | Scripts y utilidades para tareas repetitivas | `[agregar link]` |
 
 ---
 
 ## Tech Stack
 
+**Lenguajes**
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="50"/>
-<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" height="50"/>
-<img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="50"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="50"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
-### Otras tecnologías
+**Bases de datos**
 
 <p align="center">
-  🔄 <strong title="Extract, Transform and Load">ETL</strong> &nbsp;&nbsp;
-  📊 <strong title="Slowly Changing Dimension Type 2">SCD Tipo 2</strong> &nbsp;&nbsp;
-  🤖 <strong title="Bots Development">Discord.py</strong> &nbsp;&nbsp;
-  🗄️ <strong title="pgAdmin 4">pgAdmin4</strong>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+**Herramientas**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+</p>
+
+**Otras tecnologías**
+
+<p align="center">
+ETL &nbsp;·&nbsp; SCD Tipo 2 &nbsp;·&nbsp; Discord.py &nbsp;·&nbsp; pgAdmin 4
 </p>
 
 ---
 
+## Aprendiendo actualmente
+
+- Spring Boot y arquitectura backend
+- Docker aplicado a entornos de producción
+- Fundamentos avanzados de ciberseguridad
+- Inteligencia artificial aplicada
+
+---
+
 ## Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloOsorio07&show_icons=true&theme=dark&hide_border=true&icon_color=00ff7f&title_color=00ff7f" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CamiloOsorio07&show_icons=true&theme=dark&hide_border=true&icon_color=00ff7f&title_color=00ff7f"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CamiloOsorio07&theme=dark&hide_border=true&date_format=%5BY.%5Dm.%5Dd&ring=00ff7f&fire=00ff7f" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=CamiloOsorio07&theme=dark&hide_border=true&ring=00ff7f&fire=00ff7f"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloOsorio07&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=00ff7f" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloOsorio07&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00ff7f"/>
 </p>
 
 ---
 
 ## Objetivo profesional
-Busco prácticas o mi primer empleo en desarrollo de software. Quiero aportar en equipos que trabajen con buenas prácticas, pruebas y CI/CD, mientras sigo aprendiendo y mejorando.
+
+Busco contribuir al desarrollo de software mediante soluciones seguras, eficientes y escalables, participando en proyectos que impulsen la innovación tecnológica y me permitan seguir creciendo profesionalmente en áreas como desarrollo backend, bases de datos y ciberseguridad.
 
 ---
 
-## Contacto
-- Email: `camiloosorio717@gmail.com`
-- GitHub: https://github.com/CamiloOsorio07
-- LinkedIn: https://www.linkedin.com/in/camilo-osorio-mejia-a20ab2325/
-
-<p align="center">Construir · Aprender · Mejorar continuamente</p>
+<p align="center">
+<strong>Construir · Aprender · Innovar · Mejorar continuamente</strong>
+</p>

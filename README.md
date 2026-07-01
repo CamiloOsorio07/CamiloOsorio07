@@ -6,26 +6,34 @@
 <h1 align="center" style="margin-top: -10px">Hola, soy <strong>Camilo Andrés Osorio Mejía</strong></h1>
 
 <p align="center">
-  Estudiante de Ingeniería Informática · Desarrollador en Python, Java, JavaScript, Kotlin y SQL<br>
-  Trabajo en bots, apps Android, videojuegos 2D y soluciones BI, con enfoque en código limpio y funcional.
+  <strong>Software Developer</strong> | <strong>AI Enthusiast</strong><br>
+   Desarrollo soluciones con Python, Java, JavaScript, Kotlin y SQL.<br>
+  Apasionado por el desarrollo de software, la administración y optimización de bases de datos, la inteligencia artificial y la ciberseguridad, creando soluciones seguras, escalables y de alta calidad.
 </p>
 
 <p align="center">
-  <a href="mailto:camiloosorio717@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-camiloosorio717@gmail.com-00FF7F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/CamiloOsorio07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CamiloOsorio07-00FF7F?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:camiloosorio717@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-camiloosorio717@gmail.com-00FF7F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/CamiloOsorio07" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-CamiloOsorio07-00FF7F?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/camilo-osorio-mejia-a20ab2325/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## Sobre mí
-Soy estudiante de Ingeniería Informática y me interesa el desarrollo práctico. He trabajado en proyectos que van desde bots y automatizaciones hasta aplicaciones móviles y modelado de datos. Me gusta resolver problemas con soluciones simples, claras y escalables.
+Soy desarrollador de software apasionado por crear soluciones tecnológicas eficientes, seguras y escalables. Mi enfoque principal está en el desarrollo de software, la ciberseguridad y las bases de datos, complementado con experiencia en inteligencia artificial, desarrollo móvil, automatización y Business Intelligence. Disfruto aprender nuevas tecnologías, optimizar procesos y convertir problemas complejos en soluciones simples mediante código limpio y buenas prácticas de desarrollo.
 
 ---
 
 ## Actualmente
-- Manteniendo y mejorando **KaiVoxx**, un bot de música en Python.
-- Integrando y puliendo **ChibiFlix**, una app Android desarrollada en Kotlin.
+- Manteniendo y mejorando **KaiVoxx**, un bot de discord vario con IA en Python.
 
 ---
 

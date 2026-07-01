@@ -38,33 +38,35 @@ Soy estudiante de Ingeniería Informática y me interesa el desarrollo práctico
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-<img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" alt="Kotlin" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="50"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="50"/>
+<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" height="50"/>
 
 </p>
 
 ### Otras tecnologías
 
-- 🤖 **bot development**
-- 🔄 **ETL**
-- 📊 **SCD Tipo 2**
-- 🗄️ **pgAdmin4**
+<p align="center">
+  🔄 <strong title="Extract, Transform and Load">ETL</strong> &nbsp;&nbsp;
+  📊 <strong title="Slowly Changing Dimension Type 2">SCD Tipo 2</strong> &nbsp;&nbsp;
+  🤖 <strong title="Bots Development">Discord.py</strong> &nbsp;&nbsp;
+  🗄️ <strong title="pgAdmin 4">pgAdmin4</strong>
+</p>
 
 ---
 

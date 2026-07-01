@@ -38,10 +38,33 @@ Soy estudiante de Ingeniería Informática y me interesa el desarrollo práctico
 
 ---
 
-## Tech stack
-**Lenguajes:** Python · Java · JavaScript · Kotlin · SQL · HTML5 · CSS3  
-**Bases de datos / BI:** PostgreSQL · MySQL · ETL · SCD Tipo 2  
-**Herramientas y frameworks:** Android Studio · pgAdmin4 · Docker · GitHub Actions · VS Code · Discord.py · Pygame
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+
+</p>
+
+### Otras tecnologías
+
+- 🤖 **bot development**
+- 🔄 **ETL**
+- 📊 **SCD Tipo 2**
+- 🗄️ **pgAdmin4**
 
 ---
 
@@ -68,6 +91,6 @@ Busco prácticas o mi primer empleo en desarrollo de software. Quiero aportar en
 ## Contacto
 - Email: `camiloosorio717@gmail.com`
 - GitHub: https://github.com/CamiloOsorio07
-- LinkedIn: por añadir
+- LinkedIn: https://www.linkedin.com/in/camilo-osorio-mejia-a20ab2325/
 
 <p align="center">Construir · Aprender · Mejorar continuamente</p>
